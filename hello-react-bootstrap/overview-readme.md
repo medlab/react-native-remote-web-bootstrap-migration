@@ -60,4 +60,9 @@ EOF
 
 npm start
 
+
+# for publish
+#npm install -g serve
+#serve -s build
+
 ```
